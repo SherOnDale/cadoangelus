@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SherOnDale/cadoangelus/issues"
   },
-  "homepage": "https://github.com/SherOnDale/cadoangelus#readme"
+  "homepage": "https://github.com/SherOnDale/cadoangelus#readme",
+  "dependencies": {
+    "opn": "^5.4.0"
+  }
 }
