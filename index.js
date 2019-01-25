@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-require('opn')('https://egoist.sh', {
+require('opn')('https://sherondale.me', {
   wait: false
 });
 
