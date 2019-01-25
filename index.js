@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 require('opn')('https://egoist.sh', {
   wait: false
 });
